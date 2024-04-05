@@ -1,0 +1,40 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+venv*/
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.swp
+*~
+
+# Python cache files
+__pycache__/
+
+# Ignore the API documentation if using tools like ReDoc or Swagger
+# Uncomment these lines if you don't want to commit your documentation
+# docs/
+
+# Ignore SQLite databases
+*.sqlite3
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.vercel
